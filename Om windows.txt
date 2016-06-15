@@ -1,0 +1,5 @@
+Du kan öppna cmd i elevated mode, (högerklicka och tryck kör som administratör)
+ 
+Skriv kommandot slmgr /rearm där är mellanrum exempel slmgr mellanrum /rearm
+ 
+Meddelandet bör försvinna. Annars är det inget problem om att windows är såkallat oäkta. Det är bara ett försök från microsoft att få en att köpa en produkt nyckel. Eftersom Windows inte är aktiverat.
